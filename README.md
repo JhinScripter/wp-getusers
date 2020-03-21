@@ -1,0 +1,1 @@
+Irá tentar pegar os users do wordpress no formato JSON utilizando o diretório "/wp-json/wp/v2/users/".
